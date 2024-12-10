@@ -1,0 +1,138 @@
+body{
+	background-color: black;
+}
+.pagina{
+	font-size: 30px;
+	color: white;
+	position: absolute;
+		left: 6%;
+		top: 21%;
+	transform: translate(-50%, -50%);
+	font-family: impact;
+}
+.pag{
+	padding-right: 8px;
+	padding-left: 8px;
+	border-radius: 7px;
+	border: solid;
+}
+.menu{
+	background-color: #000000;
+	width: 100%;
+	height: 90px;
+}
+.botaomenu{
+	height: 20px;
+	width: 573px;
+	position: absolute;
+		left: 50%;
+	transform: translate(-50%, -50%);
+	margin-top: 45px;
+}
+.loja{
+	margin-left: 10%;
+}
+.botao{
+		font-size: 25px;
+		font-family: Impact;
+		color: white;
+		background-color: black;
+		border-color: white;
+	border-radius: 25px;
+		height: 50px;
+		width: 150px;
+}
+.botao:hover{
+		font-size: 25px;
+		font-family: Impact;
+		color: black;
+		background-color: white;
+		border-color: gray;
+	border-radius: 25px;
+		height: 50px;
+		width: 150px;
+}
+.imagembg{
+	opacity: 4%;
+		position: absolute;
+		left: 50%;
+		top: 50%;
+	transform: translate(-50%, -50%);
+}
+.mais{
+	background-color: black;
+	width: 900px;
+	height: 400px;
+	position: absolute;
+		left: 50%;
+		top: 110%;
+	transform: translate(-50%, -50%);
+}
+.botaomais{
+	margin-top: 0px;
+	margin-left: 15%;
+	font-size: 25px;
+		font-family: Impact;
+		color: white;
+		background-color: black;
+		border-color: white;
+	border-radius: 25px;
+		height: 230px;
+		width: 250px;
+}
+.botaomais:hover{
+		font-size: 25px;
+		font-family: Impact;
+		color: black;
+		background-color: white;
+		border-color: gray;
+	border-radius: 25px;
+		height: 230px;
+		width: 250px;
+}
+.botaomais2{
+	position: absolute;
+
+	margin-left: 15%;
+	font-size: 25px;
+		font-family: Impact;
+		color: white;
+		background-color: black;
+		border-color: white;
+	border-radius: 25px;
+		height: 230px;
+		width: 250px;
+}
+.botaomais2:hover{
+		font-size: 25px;
+		font-family: Impact;
+		color: black;
+		background-color: white;
+		border-color: gray;
+	border-radius: 25px;
+		height: 230px;
+		width: 250px;
+}
+.rodape{
+	font-size: 15px;
+	font-weight: bold;
+	font-family: arial;
+	background-color: white;
+	position: absolute;
+	top: 190%;
+	width: 99%;
+}
+.conteudo{
+	color: white;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-color: white;
+	position: absolute;
+	height: 1398px;
+	width: 890px;
+	letter-spacing: 1px;
+	position: absolute;
+		left: 50%;
+		top: 94%;
+	transform: translate(-50%, -50%);
+}
